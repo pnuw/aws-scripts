@@ -1,6 +1,8 @@
 # hello-world
-# first github repo
-# collection of cheese jokes
+
+Welcome!
+
+My first github repo shall be a collection of cheese jokes.
 
 What's the best cheese to serve at Christmas?
 - Baby Cheeses
