@@ -1,8 +1,10 @@
-# hello-world
+# aws-scripts
 
-Welcome!
+Hi! aws-scripts is a place for me to keep stuff. 
 
-My first github repo shall be a collection of cheese jokes.
+Registry:
 
-What's the best cheese to serve at Christmas?
-- Baby Cheeses
+| script | description | reference |
+|---|---|---|
+| ansible_build_user-data.sh | user-data script to create a tarball of ansible RPMs for offline installation on RHEL6 | [reference](http://esbmagic.blogspot.com/2015/09/ansible-installation-on-redhat-rhel.html "Ansible Installation on RHEL")|
+
