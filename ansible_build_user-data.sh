@@ -23,7 +23,7 @@ yum update -y
 
 # create an ansible directory inside /tmp
 mkdir /tmp/ansible
-yum install yum-plugin-downloadonly -y
+# yum install yum-plugin-downloadonly -y --- deprecated
 yum install --downloadonly --downloaddir=/tmp/ansible/ ansible -y
 cd /tmp
 tar zcf ansible_rpms.tgz ./ansible/* 
